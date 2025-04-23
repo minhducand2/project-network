@@ -1,2 +1,9 @@
-ollama
 netmiko
+requests
+python-dotenv
+openai
+ollama
+genie
+pyats==23.9
+ollama
+genie.libs.genie
